@@ -1,0 +1,2 @@
+# Ignore the mounted elasticsearch volume.
+docker-elk/elasticsearch/data
