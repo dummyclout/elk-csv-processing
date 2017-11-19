@@ -1,2 +1,5 @@
 # Ignore the mounted elasticsearch volume.
 docker-elk/elasticsearch/data
+
+# Ignore the directory used to store data
+input-data/
